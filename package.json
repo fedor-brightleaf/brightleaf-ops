@@ -1,0 +1,9 @@
+{
+  "name": "brightleaf-utils",
+  "version": "0.1.0",
+  "description": "Helper lib for BrightLeaf (training)",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "dependencies": {}
+}

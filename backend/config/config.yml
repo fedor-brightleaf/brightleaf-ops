@@ -1,0 +1,9 @@
+# backend/config/config.yml
+# Example configuration — intentionally fake placeholders
+database:
+  host: localhost
+  user: brightleaf
+  password: changeme
+
+secrets:
+  github_token: GITHUB_TOKEN_PLACEHOLDER
